@@ -3,6 +3,7 @@
 Un sólido **Sistema de Gestión de Inventario** desarrollado con **Laravel 10** y **MySQL**, diseñado para optimizar el control de inventarios, ventas y procesos de compras.
 
 ![Dashboard](public/assets/img/image-github/image.png)
+![Gestión de Productos](public/assets/img/image-github/imagep.png)
 
 ## 🖼️ Capturas del Sistema
 
