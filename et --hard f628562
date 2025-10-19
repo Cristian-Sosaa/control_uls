@@ -1,0 +1,176 @@
+[33mec7b573[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Resolve merge conflicts
+[33md2f9b54[m first commit
+[33m1c550d7[m cambiar orden
+[33mcb30641[m first commit
+[33m391ef07[m actualizar pructos
+[33mf628562[m Merge pull request #26 from Wissam-Elias/main
+[33mf83b756[m fix show unit from product
+[33m008b64b[m Merge pull request #25 from inerttila/main
+[33m038311b[m new edit "Your issue is likely caused by Livewire not updating the background color dynamically when the quantity or quantity_alert values change. The style attribute is being set using Blade syntax, which doesn’t always react to Livewire updates as expected."
+[33m3cd2c6a[m edit php comand on docker , fix the restart deep clean php artisan migrate:fresh drops all tables and reruns the migrations from scratch
+[33m8fd56c7[m update the readme
+[33m5df5124[m rm description form the search funtion
+[33md20b7cf[m make some basic chnages
+[33m225ab5a[m solve the issue while allowing you to still create a product even when the user encounters a duplicate code.
+[33m04da16d[m add the quantity_alert at the Products list make a function that show red  warning when the quantity_alert <= $product->quantity) and  yellou warning when the warning chnage the     public $perPage = 10; into 25
+[33m4f93e72[m simple stuf
+[33m342bf09[m add dockerignore
+[33mf61bed7[m add new button for "Add new Product"  & remove the version
+[33m5bf7df0[m add href for the cards on Dashboard
+[33m71d5265[m ⚡Reset Database and Create New Admin User
+[33m22f6e77[m 🐋 Updated Docker setup instructions (app & MySQL containers) ✅ Added steps to rebuild Docker image after code changes 🏷️ Included instructions for tagging and pushing Docker images 💾 Updated database backup process (export/import from desktop)
+[33maac1748[m make the Search  more powerful by: ✔ Searching in more fields (name, description, category). ✔ Using debounced search to reduce server calls. ✔ Adding fuzzy search (Laravel Scout + Meilisearch).
+[33mcdf950a[m Merge pull request #24 from ixmsanto/main
+[33m98c618a[m refactor: updated the outdated node packeges
+[33mdf54a72[m refactor: node package updated
+[33mdac90a2[m fix: resolve error on orders/create page
+[33m7682fef[m fix: add missing dashboard view
+[33me0b91ea[m Refactor
+[33m15b4cc6[m Refactor
+[33m647d049[m Refactor
+[33m5cd72e1[m Update README.md
+[33m0cd3d38[m Refactor
+[33m48aa4cf[m Merge pull request #17 from kusman28/main
+[33m9eb6379[m Fix type error for Store Email Label
+[33m920fe50[m Update README.md
+[33mb0fd633[m Merge pull request #12 from Shaz3e/main
+[33mdce837e[m Update README.md
+[33me120e11[m Merge pull request #11 from akhelij/patch-1
+[33me33cf56[m fix updating product slug
+[33m96aab0e[m Merge pull request #10 from cuangtin/main
+[33m2d884f9[m MULTIPLE: update order, product, quotation, purchase,...
+[33m188d1f7[m Merge pull request #8 from tauseedzaman/main
+[33me5fba73[m Update README.md
+[33mc039cb4[m Update README.md
+[33mbf3700c[m readme updated
+[33mdb13424[m quotations completed
+[33m8e8e69b[m quotation will be multi user
+[33m634cce7[m purchase is now multi user
+[33m9b3187c[m orders page is now multi user
+[33md7d8a4e[m product is now multi user
+[33md867558[m create product is now configured for multi user
+[33m8fc3f5a[m customers and suppliers upgraded
+[33md738307[m make units and category multi user
+[33m8f2e98a[m making it multi user
+[33m7cba827[m orders page
+[33m097fa7f[m explored customers and suppliers
+[33m7f99cf6[m product reviewed
+[33m633d45f[m category crud upgraded
+[33m36f1fcc[m fixed issues in profile update page
+[33mb6f5cd9[m Merge pull request #7 from tauseedzaman/main
+[33mac1b4c7[m Update README.md
+[33m30919a1[m Update README.md so users can copy commands during installation
+[33m5160172[m Merge pull request #6 from MimisK13/main
+[33ma21e954[m update packages & dependencies
+[33md2234dc[m ENUM: Small fixes
+[33maec6109[m FACADE: Use facade
+[33m21f62f3[m Update Packages
+[33m6061c0c[m ENUMS: Use Enums
+[33m5dbe629[m ENUMS: Use enums for status
+[33m2cf5eb4[m COMPONENTS: Create & test Status Component
+[33mf684521[m COMPOSER: Install laravel-debugbar
+[33m04c43ea[m CLEAN: Remove & Sort Code
+[33m8a072a0[m CLEAN: Remove & Sort Code
+[33mf9832ca[m SOLID: Move functions to another controller
+[33m5584b46[m LIVEWIRE: Add Tables
+[33m7e694a5[m LIVEWIRE: Add Tables
+[33mdf3af60[m ICONS: New icon
+[33m040a393[m FEATURES: Add various features & fixes
+[33m4de56b7[m BACKUP: Keep backup
+[33mb997739[m COMPOSER: Update packages
+[33m529f91a[m WIP
+[33m0aee84f[m MODELS: Add search functionality
+[33m6046d52[m PAGINATE: add tabler classes
+[33mfd38a06[m LIVEWIRE: Create Datatables
+[33mae7dbc9[m COMPONENTS: add new icons
+[33mca7954a[m WIP
+[33me13eac5[m Merge branch 'main' of github.com:MimisK13/inventory-management-system
+[33mad936c5[m wip
+[33m7f053a4[m WIP
+[33m6d0fc1f[m TABLE: add class on Headers & Body
+[33m45bc07c[m FIX
+[33m96acd02[m WIP
+[33m567548b[m update packages
+[33m7b8ef49[m UPDATE: README.md
+[33m087a363[m DRY: Apply reusable components WIP
+[33mf1d6243[m CLEAN: Code
+[33m2dd8125[m DRY: Create Reusable Components
+[33m2d6aaf2[m VIEW: Create Partial
+[33m8e77d8f[m BACKUP
+[33m517391c[m COMPONENTS: Add new
+[33m3b73958[m VIEWS: Refactoring
+[33m21bf96b[m REFACTOR: Refactoring validation with Form Request
+[33m99e6519[m MODELS: Cast dates
+[33me478ed2[m WIP: Refactoring
+[33mdbafadd[m COMPOSER: Update packages
+[33maff98a8[m WIP: Refactoring
+[33m3aea25d[m COMPOSER: Update Packages
+[33m996670b[m WIP: Refactoring
+[33mfb59720[m COMPOSER: Update Packages
+[33mac71059[m QUOTATIONS: WIP
+[33mf99adbd[m WIP: Refactoring
+[33m3ef1610[m PAGINATION: Publish vendor views
+[33m441c14e[m WIP
+[33m6d00b9a[m WIP: Refactoring
+[33mb36b286[m WIP
+[33me53e718[m SORT CODE
+[33m83951e8[m WIP
+[33mce27d1c[m WIP
+[33m0e45c43[m WIP
+[33m50083aa[m WIP
+[33m3985a52[m fix route
+[33m37f1795[m UPDATE: Packages & Dependencies
+[33mc843edb[m REMOVE: Datatables
+[33mf93f68a[m WIP: Refactoring
+[33m82b05f1[m BACKUP
+[33mb0d980a[m NOTIFICATIONS: Work In Progress
+[33me644f9b[m Clean & Sort Code
+[33mdfe9581[m VIEWS: Refactoring
+[33m515b074[m COMPONENTS: Add base input
+[33mf1ea547[m Refactoring
+[33m7c3ad83[m VIEWS: Refactoring
+[33mb18c496[m MODELS: Remove unused lines
+[33ma12d8f3[m MIGRATIONS: Update fields
+[33m0f07fdd[m BACKUP: Old Views
+[33mb6280ad[m REFACTORING
+[33m2744d51[m PACKAGES: Install laravolt/avatar
+[33m83f9f5a[m THEME: Work with new Theme
+[33mf73ff5a[m POWERGRID: Create Tables
+[33m86c1483[m AVATARS: Install Package for Avatars
+[33m19bb813[m CONTROLLER: Create Dashboard Controller
+[33md4f6e24[m Create Show Pages
+[33mcff11d1[m BACKUP: Keep old files
+[33mfc9d0cc[m AUTH: Fully worked
+[33m50a4690[m TABLER: Apply tabler theme
+[33m0e8db07[m USER: Remove username field
+[33m544319f[m SVG: Add new
+[33m3d6c870[m WIP
+[33m0c81c63[m RELATIONS: Extending
+[33m3c8fda0[m ADD: Show method
+[33ma35d159[m ADD: Show method
+[33m9ae8eea[m CODE: Reformat
+[33me638d6c[m ADD: More Tests
+[33me6e8f42[m Updated Composer lock
+[33m4820609[m DEPENDENCIES: WIP
+[33md982be5[m PACKAGES: Update, Install, Remove
+[33mdfe4c6c[m Refactoring
+[33mc30623b[m VIEWS: WIP
+[33m94b063a[m UPDATE
+[33m081fe16[m MODELS: Refactoring TDD
+[33m15b9c61[m DATABASE: Refactoring Seeders & Factories
+[33m49dea5b[m UPDATE
+[33mf7266dd[m REQUEST: Create & Refactor Form Requests
+[33m5a2e105[m LIVEWIRE: WIP
+[33m299a0e5[m CONTROLLERS: Refactoring TDD
+[33me42ccf6[m API: Create Product Controller
+[33md36f158[m LIVEWIRE: Setup & Use
+[33m6a8f810[m MIGRATIONS: Refactoring WIP
+[33md1b8e54[m VIEWS: Refactoring WIP
+[33mf7a136f[m VIEWS: Refactoring WIP
+[33mb754de8[m SEEDERS: Update
+[33mc6f87bb[m API: Create API end-points
+[33m4ef2ac2[m DELETE: Unused
+[33me45673f[m TEST: Writing tests WIP
+[33m32e35d9[m Merge pull request #5 from MimisK13/main
+[33m044c08b[m TESTING: Delete Example Tests
+[33mde6c176[m TEST
